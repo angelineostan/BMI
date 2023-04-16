@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\bin\Debug\net6.0\FINAL-OUTPUT-OSTAN.exe
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\bin\Debug\net6.0\FINAL-OUTPUT-OSTAN.deps.json
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\bin\Debug\net6.0\FINAL-OUTPUT-OSTAN.runtimeconfig.json
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\bin\Debug\net6.0\FINAL-OUTPUT-OSTAN.dll
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\bin\Debug\net6.0\FINAL-OUTPUT-OSTAN.pdb
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.AssemblyInfo.cs
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.dll
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\refint\FINAL-OUTPUT-OSTAN.dll
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.pdb
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\FINAL-OUTPUT-OSTAN.genruntimeconfig.cache
+C:\Users\Acer\Documents\Codes\FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN\obj\Debug\net6.0\ref\FINAL-OUTPUT-OSTAN.dll

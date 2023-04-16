@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINAL-OUTPUT-OSTAN", "FINAL-OUTPUT-OSTAN\FINAL-OUTPUT-OSTAN.csproj", "{31D8F970-6506-463D-B29F-A92F8FCA4881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D8F970-6506-463D-B29F-A92F8FCA4881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D8F970-6506-463D-B29F-A92F8FCA4881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D8F970-6506-463D-B29F-A92F8FCA4881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D8F970-6506-463D-B29F-A92F8FCA4881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86730B1F-401C-4362-BD57-CC702D557B79}
+	EndGlobalSection
+EndGlobal
